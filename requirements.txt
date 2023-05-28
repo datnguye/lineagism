@@ -1,0 +1,3 @@
+streamlit~=1.22.0
+dbt-core~=1.5.0
+sqllineage~=1.4.0
